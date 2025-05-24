@@ -142,4 +142,4 @@ This project is private and proprietary.
 
 ## Support
 
-For questions or support, please contact [your-email@domain.com]. 
+For questions or support, please contact [victorjayeoba02@gmail.com]. 
